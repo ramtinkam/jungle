@@ -12,6 +12,10 @@ CMakeFiles/Jungle.dir/Jungle.cpp.o: ../Animal.h
 CMakeFiles/Jungle.dir/Jungle.cpp.o: ../Jungle.cpp
 CMakeFiles/Jungle.dir/Jungle.cpp.o: ../Jungle.h
 
+CMakeFiles/Jungle.dir/Pet.cpp.o: ../Animal.h
+CMakeFiles/Jungle.dir/Pet.cpp.o: ../Pet.cpp
+CMakeFiles/Jungle.dir/Pet.cpp.o: ../Pet.h
+
 CMakeFiles/Jungle.dir/WildAnimal.cpp.o: ../Animal.h
 CMakeFiles/Jungle.dir/WildAnimal.cpp.o: ../WildAnimal.cpp
 CMakeFiles/Jungle.dir/WildAnimal.cpp.o: ../WildAnimal.h
@@ -19,6 +23,7 @@ CMakeFiles/Jungle.dir/WildAnimal.cpp.o: ../WildAnimal.h
 CMakeFiles/Jungle.dir/main.cpp.o: ../Animal.h
 CMakeFiles/Jungle.dir/main.cpp.o: ../DomesticAnimal.h
 CMakeFiles/Jungle.dir/main.cpp.o: ../Jungle.h
+CMakeFiles/Jungle.dir/main.cpp.o: ../Pet.h
 CMakeFiles/Jungle.dir/main.cpp.o: ../WildAnimal.h
 CMakeFiles/Jungle.dir/main.cpp.o: ../main.cpp
 

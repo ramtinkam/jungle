@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/ramtin/code/temp/jungle/Jungle/Animal.cpp" "/home/ramtin/code/temp/jungle/Jungle/build/CMakeFiles/Jungle.dir/Animal.cpp.o"
   "/home/ramtin/code/temp/jungle/Jungle/DomesticAnimal.cpp" "/home/ramtin/code/temp/jungle/Jungle/build/CMakeFiles/Jungle.dir/DomesticAnimal.cpp.o"
   "/home/ramtin/code/temp/jungle/Jungle/Jungle.cpp" "/home/ramtin/code/temp/jungle/Jungle/build/CMakeFiles/Jungle.dir/Jungle.cpp.o"
+  "/home/ramtin/code/temp/jungle/Jungle/Pet.cpp" "/home/ramtin/code/temp/jungle/Jungle/build/CMakeFiles/Jungle.dir/Pet.cpp.o"
   "/home/ramtin/code/temp/jungle/Jungle/WildAnimal.cpp" "/home/ramtin/code/temp/jungle/Jungle/build/CMakeFiles/Jungle.dir/WildAnimal.cpp.o"
   "/home/ramtin/code/temp/jungle/Jungle/main.cpp" "/home/ramtin/code/temp/jungle/Jungle/build/CMakeFiles/Jungle.dir/main.cpp.o"
   )

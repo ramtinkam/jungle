@@ -93,12 +93,12 @@ clean: CMakeFiles/Jungle.dir/clean
 CMakeFiles/Jungle.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Jungle.dir/build.make CMakeFiles/Jungle.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Jungle.dir/build.make CMakeFiles/Jungle.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ramtin/code/temp/jungle/Jungle/build/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target Jungle"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ramtin/code/temp/jungle/Jungle/build/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target Jungle"
 .PHONY : CMakeFiles/Jungle.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Jungle.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ramtin/code/temp/jungle/Jungle/build/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ramtin/code/temp/jungle/Jungle/build/CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Jungle.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/ramtin/code/temp/jungle/Jungle/build/CMakeFiles 0
 .PHONY : CMakeFiles/Jungle.dir/rule

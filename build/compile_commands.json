@@ -23,5 +23,10 @@
   "directory": "/home/ramtin/code/temp/jungle/Jungle/build",
   "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/Jungle.dir/Jungle.cpp.o -c /home/ramtin/code/temp/jungle/Jungle/Jungle.cpp",
   "file": "/home/ramtin/code/temp/jungle/Jungle/Jungle.cpp"
+},
+{
+  "directory": "/home/ramtin/code/temp/jungle/Jungle/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/Jungle.dir/Pet.cpp.o -c /home/ramtin/code/temp/jungle/Jungle/Pet.cpp",
+  "file": "/home/ramtin/code/temp/jungle/Jungle/Pet.cpp"
 }
 ]

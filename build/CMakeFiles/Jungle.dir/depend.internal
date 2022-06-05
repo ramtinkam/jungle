@@ -12,6 +12,10 @@ CMakeFiles/Jungle.dir/Jungle.cpp.o
  /home/ramtin/code/temp/jungle/Jungle/Animal.h
  /home/ramtin/code/temp/jungle/Jungle/Jungle.cpp
  /home/ramtin/code/temp/jungle/Jungle/Jungle.h
+CMakeFiles/Jungle.dir/Pet.cpp.o
+ /home/ramtin/code/temp/jungle/Jungle/Animal.h
+ /home/ramtin/code/temp/jungle/Jungle/Pet.cpp
+ /home/ramtin/code/temp/jungle/Jungle/Pet.h
 CMakeFiles/Jungle.dir/WildAnimal.cpp.o
  /home/ramtin/code/temp/jungle/Jungle/Animal.h
  /home/ramtin/code/temp/jungle/Jungle/WildAnimal.cpp
@@ -20,5 +24,6 @@ CMakeFiles/Jungle.dir/main.cpp.o
  /home/ramtin/code/temp/jungle/Jungle/Animal.h
  /home/ramtin/code/temp/jungle/Jungle/DomesticAnimal.h
  /home/ramtin/code/temp/jungle/Jungle/Jungle.h
+ /home/ramtin/code/temp/jungle/Jungle/Pet.h
  /home/ramtin/code/temp/jungle/Jungle/WildAnimal.h
  /home/ramtin/code/temp/jungle/Jungle/main.cpp

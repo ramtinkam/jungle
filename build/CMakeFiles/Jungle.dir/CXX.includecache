@@ -8,27 +8,13 @@
 
 /home/ramtin/code/temp/jungle/Jungle/Animal.h
 
-/home/ramtin/code/temp/jungle/Jungle/DomesticAnimal.h
-Animal.h
-/home/ramtin/code/temp/jungle/Jungle/Animal.h
-
-/home/ramtin/code/temp/jungle/Jungle/Jungle.h
-Animal.h
-/home/ramtin/code/temp/jungle/Jungle/Animal.h
-
-/home/ramtin/code/temp/jungle/Jungle/WildAnimal.h
-Animal.h
-/home/ramtin/code/temp/jungle/Jungle/Animal.h
-
-/home/ramtin/code/temp/jungle/Jungle/main.cpp
+/home/ramtin/code/temp/jungle/Jungle/Pet.cpp
 iostream
 -
-Jungle.h
-/home/ramtin/code/temp/jungle/Jungle/Jungle.h
+Pet.h
+/home/ramtin/code/temp/jungle/Jungle/Pet.h
+
+/home/ramtin/code/temp/jungle/Jungle/Pet.h
 Animal.h
 /home/ramtin/code/temp/jungle/Jungle/Animal.h
-DomesticAnimal.h
-/home/ramtin/code/temp/jungle/Jungle/DomesticAnimal.h
-WildAnimal.h
-/home/ramtin/code/temp/jungle/Jungle/WildAnimal.h
 
