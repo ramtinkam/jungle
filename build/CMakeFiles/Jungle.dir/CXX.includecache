@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ramtin/code/temp/jungle/Jungle/Animal.h
+
+/home/ramtin/code/temp/jungle/Jungle/DomesticAnimal.h
+Animal.h
+/home/ramtin/code/temp/jungle/Jungle/Animal.h
+
+/home/ramtin/code/temp/jungle/Jungle/Jungle.h
+Animal.h
+/home/ramtin/code/temp/jungle/Jungle/Animal.h
+
+/home/ramtin/code/temp/jungle/Jungle/WildAnimal.h
+Animal.h
+/home/ramtin/code/temp/jungle/Jungle/Animal.h
+
+/home/ramtin/code/temp/jungle/Jungle/main.cpp
+iostream
+-
+Jungle.h
+/home/ramtin/code/temp/jungle/Jungle/Jungle.h
+Animal.h
+/home/ramtin/code/temp/jungle/Jungle/Animal.h
+DomesticAnimal.h
+/home/ramtin/code/temp/jungle/Jungle/DomesticAnimal.h
+WildAnimal.h
+/home/ramtin/code/temp/jungle/Jungle/WildAnimal.h
+

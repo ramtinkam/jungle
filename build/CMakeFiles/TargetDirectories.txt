@@ -1,0 +1,3 @@
+/home/ramtin/code/temp/jungle/Jungle/build/CMakeFiles/rebuild_cache.dir
+/home/ramtin/code/temp/jungle/Jungle/build/CMakeFiles/edit_cache.dir
+/home/ramtin/code/temp/jungle/Jungle/build/CMakeFiles/Jungle.dir

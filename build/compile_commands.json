@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/ramtin/code/temp/jungle/Jungle/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/Jungle.dir/main.cpp.o -c /home/ramtin/code/temp/jungle/Jungle/main.cpp",
+  "file": "/home/ramtin/code/temp/jungle/Jungle/main.cpp"
+},
+{
+  "directory": "/home/ramtin/code/temp/jungle/Jungle/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/Jungle.dir/Animal.cpp.o -c /home/ramtin/code/temp/jungle/Jungle/Animal.cpp",
+  "file": "/home/ramtin/code/temp/jungle/Jungle/Animal.cpp"
+},
+{
+  "directory": "/home/ramtin/code/temp/jungle/Jungle/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/Jungle.dir/WildAnimal.cpp.o -c /home/ramtin/code/temp/jungle/Jungle/WildAnimal.cpp",
+  "file": "/home/ramtin/code/temp/jungle/Jungle/WildAnimal.cpp"
+},
+{
+  "directory": "/home/ramtin/code/temp/jungle/Jungle/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/Jungle.dir/DomesticAnimal.cpp.o -c /home/ramtin/code/temp/jungle/Jungle/DomesticAnimal.cpp",
+  "file": "/home/ramtin/code/temp/jungle/Jungle/DomesticAnimal.cpp"
+},
+{
+  "directory": "/home/ramtin/code/temp/jungle/Jungle/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/Jungle.dir/Jungle.cpp.o -c /home/ramtin/code/temp/jungle/Jungle/Jungle.cpp",
+  "file": "/home/ramtin/code/temp/jungle/Jungle/Jungle.cpp"
+}
+]
